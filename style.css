@@ -1,0 +1,20 @@
+header {
+    padding: 15px 15px;
+    display: flex;
+    justify-content: space-between;
+     color:#AE1332;
+    font-family: DM Sans;
+}
+
+.logo {
+    margin-top: 20px;
+    font-family: DM Sans;
+    font-weight: 700;
+    font-style: Bold;
+    font-size: 20px;
+}
+
+.nav {
+    display: flex;
+    gap: 30px;
+}
